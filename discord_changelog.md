@@ -7,7 +7,7 @@ This is a **canary** release of the application-shell module.
 - **Version**: 0.1.0-canary
 - **Path**: backend
 - **Environment**: development
-- **Release Date**: 2025-09-02
+- **Release Date**: 2025-09-03
 
 ### Installation
 
